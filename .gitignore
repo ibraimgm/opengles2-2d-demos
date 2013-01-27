@@ -1,1 +1,5 @@
 local.properties
+gen/
+out/
+*.iml
+.idea/
