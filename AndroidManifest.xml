@@ -16,5 +16,10 @@
         <meta-data android:name="android.support.PARENT_ACTIVITY"
                    android:value="com.tests.MainActivity" />
       </activity>
+
+      <activity android:label="Triangle2d" android:name="Triangle2dActivity">
+          <meta-data android:name="android.support.PARENT_ACTIVITY"
+                     android:value="com.tests.MainActivity" />
+      </activity>
   </application>
 </manifest>

@@ -9,6 +9,7 @@ Be warned that **every** file is standalone - this generate a lot of code duplic
 Every sample can be accessed from the initial activity. The available samples are:
 
 1. **Epilepsy**: The most basic sample, shows how to initialize OpenGL ES 2.0. Every frame, the background is changed to a random color. Useful for testing if you or your friends have epilepsy.
+2. **Triangle2d**: Shows how to setup the coordinate system and draw a triangle in a fixed position. A must-see for anyone trying to work with 2D in Open GL ES 2.0.
 
 ## License
 BSD. Basically, you're free to do whathever you like with this code.
