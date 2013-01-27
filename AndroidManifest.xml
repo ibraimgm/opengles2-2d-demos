@@ -11,5 +11,10 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+
+      <activity android:label="Epilepsy" android:name="EpilepsyActivity">
+        <meta-data android:name="android.support.PARENT_ACTIVITY"
+                   android:value="com.tests.MainActivity" />
+      </activity>
   </application>
 </manifest>

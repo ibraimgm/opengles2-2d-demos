@@ -4,5 +4,11 @@
 
 Be warned that **every** file is standalone - this generate a lot of code duplication, *BUT* it's slightly easier to follow (you only need to look to the file that shows what you're interested, no need to "hunt" initialization routines, etc.). In short, don't use this project structure to do anything serious or you will probably be murdered by your manager and/or teammates.
 
+## The Samples
+
+Every sample can be accessed from the initial activity. The available samples are:
+
+1. **Epilepsy**: The most basic sample, shows how to initialize OpenGL ES 2.0. Every frame, the background is changed to a random color. Useful for testing if you or your friends have epilepsy.
+
 ## License
 BSD. Basically, you're free to do whathever you like with this code.
