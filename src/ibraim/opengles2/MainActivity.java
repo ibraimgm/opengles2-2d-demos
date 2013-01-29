@@ -10,7 +10,7 @@ import android.widget.ListView;
 
 public class MainActivity extends ListActivity
 {
-  private final String tests[] = {"Epilepsy", "Triangle2d"};
+  private final String tests[] = {"Epilepsy", "Triangle2d", "TriangleColor"};
 
   /** Called when the activity is first created. */
   @Override

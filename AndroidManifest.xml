@@ -21,5 +21,10 @@
           <meta-data android:name="android.support.PARENT_ACTIVITY"
                      android:value="com.tests.MainActivity" />
       </activity>
+
+      <activity android:label="TriangleColor" android:name="TriangleColorActivity">
+          <meta-data android:name="android.support.PARENT_ACTIVITY"
+                     android:value="com.tests.MainActivity" />
+      </activity>
   </application>
 </manifest>
