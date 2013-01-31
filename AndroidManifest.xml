@@ -26,5 +26,10 @@
           <meta-data android:name="android.support.PARENT_ACTIVITY"
                      android:value="com.tests.MainActivity" />
       </activity>
+
+      <activity android:label="Texture" android:name="TextureActivity">
+          <meta-data android:name="android.support.PARENT_ACTIVITY"
+                     android:value="com.tests.MainActivity" />
+      </activity>
   </application>
 </manifest>
